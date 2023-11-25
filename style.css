@@ -748,3 +748,7 @@ p {
     width: 700px;
 }
 
+.pointer-li {
+    cursor: pointer;
+}
+

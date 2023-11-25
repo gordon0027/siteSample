@@ -1,32 +1,32 @@
 @font-face {
     font-weight: 400;
     font-family: 'Poppins';
-    src: url("fonts/Poppins-Regular.ttf");
+    src: url("Poppins-Regular.ttf");
   }
 
 @font-face {
     font-weight: 700;
     font-family: 'Poppins';
-    src: url("fonts/Poppins-Bold.ttf");
+    src: url("Poppins-Bold.ttf");
   }
 
 
   @font-face {
     font-weight: 900;
     font-family: 'Poppins';
-    src: url("fonts/Poppins-Black.ttf");
+    src: url("Poppins-Black.ttf");
   }
 
   @font-face {
     font-weight: 400;
     font-family: 'Jost';
-    src: url("fonts/Jost-Regular.ttf");
+    src: url("Jost-Regular.ttf");
   }
 
   @font-face {
     font-weight: 700;
     font-family: 'Jost';
-    src: url("fonts/Jost-Bold.ttf");
+    src: url("Jost-Bold.ttf");
   }
 
 .container {
